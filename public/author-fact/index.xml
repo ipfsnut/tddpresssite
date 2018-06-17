@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author-Facts on Author Bio &amp; Press Site for Thomas Dylan Daniel</title>
+    <link>/author-fact/</link>
+    <description>Recent content in Author-Facts on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2018 00:09:32 -0500</lastBuildDate>
+    
+	<atom:link href="/author-fact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About the Author</title>
+      <link>/author-fact/about/</link>
+      <pubDate>Sun, 17 Jun 2018 00:09:32 -0500</pubDate>
+      
+      <guid>/author-fact/about/</guid>
+      <description>Hi! It&amp;rsquo;s good to be posting again. Sorry about the old site going down! This is thrilling, though - the site you&amp;rsquo;re viewing is hosted via a decentralized internet platform called the Interplanetary File System (or IPFS).
+My name is Thomas Dylan Daniel, and I&amp;rsquo;m a Texan writer &amp;amp; philosopher. I&amp;rsquo;m a bit of a technologist, and I read a LOT. As I work on the site and get everything updated, (and learn more about how to use Hugo) I&amp;rsquo;ll post tidbits here.</description>
+    </item>
+    
+  </channel>
+</rss>

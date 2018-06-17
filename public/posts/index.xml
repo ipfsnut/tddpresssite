@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Author Bio &amp; Press Site for Thomas Dylan Daniel</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jun 2018 21:40:18 -0500</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Good news, everyone!</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sat, 16 Jun 2018 21:40:18 -0500</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>It&amp;rsquo;s alive! I&amp;rsquo;m so thrilled to have gotten an IPFS-hosted website up and running. Check back for updates and goings-on!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Decentralized Internet</title>
+      <link>/posts/welcome-to-the-decentralized-internet/</link>
+      <pubDate>Sat, 16 Jun 2018 21:22:35 -0500</pubDate>
+      
+      <guid>/posts/welcome-to-the-decentralized-internet/</guid>
+      <description>Welcome to the Decentralized Internet.
+In this life, there are few things more certain than change. This site, for example, used to be a Wordpress site hosted by a company with a server.
+That changed recently.
+Today, in fact.
+Now, instead of being hosted by a single entity, this site is hosted by a &amp;ldquo;swarm&amp;rdquo; of &amp;ldquo;peers&amp;rdquo; (put in scare-quotes just to emphasized the novelty of the two concepts).
+Here, you&amp;rsquo;ll be able to follow along with the writings of a 21st century philosopher.</description>
+    </item>
+    
+  </channel>
+</rss>
