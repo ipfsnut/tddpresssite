@@ -1,0 +1,6 @@
+[submodule "BluestNight"]
+	path = BluestNight
+	url = https://gitlab.com/BluestNight/BluestNight.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
