@@ -6,10 +6,28 @@
     <description>Recent content on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jun 2018 00:09:32 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jun 2018 08:13:18 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pierre Hadot</title>
+      <link>/article/pierre-hadot/</link>
+      <pubDate>Sun, 17 Jun 2018 08:13:18 -0500</pubDate>
+      
+      <guid>/article/pierre-hadot/</guid>
+      <description>Here is an article I wrote for Philosophy Now back in 2015. It deals with the late French philosopher, Pierre Hadot.</description>
+    </item>
+    
+    <item>
+      <title>Further From Home</title>
+      <link>/book/further-from-home/</link>
+      <pubDate>Sun, 17 Jun 2018 08:12:59 -0500</pubDate>
+      
+      <guid>/book/further-from-home/</guid>
+      <description>Further From Home is a collection of philosophical short stories.</description>
+    </item>
     
     <item>
       <title>About the Author</title>
@@ -31,15 +49,6 @@ My name is Thomas Dylan Daniel, and I&amp;rsquo;m a Texan writer &amp;amp; philo
     </item>
     
     <item>
-      <title>Upcoming Events</title>
-      <link>/event/upcoming-events/</link>
-      <pubDate>Sat, 16 Jun 2018 22:34:25 -0500</pubDate>
-      
-      <guid>/event/upcoming-events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Summer 2018</title>
       <link>/reading/summer-2018/</link>
       <pubDate>Sat, 16 Jun 2018 22:24:41 -0500</pubDate>
@@ -53,11 +62,11 @@ Feel free to make suggestions via Twitter or Facebook if you&amp;rsquo;re thus i
     </item>
     
     <item>
-      <title>About Reviews</title>
-      <link>/review/about-reviews/</link>
+      <title>About Readings</title>
+      <link>/reading/review/about-reviews/</link>
       <pubDate>Sat, 16 Jun 2018 22:18:39 -0500</pubDate>
       
-      <guid>/review/about-reviews/</guid>
+      <guid>/reading/review/about-reviews/</guid>
       <description>This section will have book reviews about books I&amp;rsquo;m reading. There will also be a reading list. See the top menu section Reading.</description>
     </item>
     

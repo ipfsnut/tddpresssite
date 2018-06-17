@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Author Bio &amp; Press Site for Thomas Dylan Daniel</title>
+    <link>/article/</link>
+    <description>Recent content in Articles on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2018 08:13:18 -0500</lastBuildDate>
+    
+	<atom:link href="/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pierre Hadot</title>
+      <link>/article/pierre-hadot/</link>
+      <pubDate>Sun, 17 Jun 2018 08:13:18 -0500</pubDate>
+      
+      <guid>/article/pierre-hadot/</guid>
+      <description>Here is an article I wrote for Philosophy Now back in 2015. It deals with the late French philosopher, Pierre Hadot.</description>
+    </item>
+    
+  </channel>
+</rss>

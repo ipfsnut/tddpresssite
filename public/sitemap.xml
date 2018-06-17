@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/article/pierre-hadot/</loc>
+    <lastmod>2018-06-17T08:13:18-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/book/further-from-home/</loc>
+    <lastmod>2018-06-17T08:12:59-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/author-fact/about/</loc>
     <lastmod>2018-06-17T00:09:32-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,13 +31,6 @@
   </url>
   
   <url>
-    <loc>/event/upcoming-events/</loc>
-    <lastmod>2018-06-16T22:34:25-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/reading/summer-2018/</loc>
     <lastmod>2018-06-16T22:24:41-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -31,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/review/about-reviews/</loc>
+    <loc>/reading/review/about-reviews/</loc>
     <lastmod>2018-06-16T22:18:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -52,8 +59,15 @@
   </url>
   
   <url>
+    <loc>/article/</loc>
+    <lastmod>2018-06-17T08:13:18-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2018-06-17T00:09:32-05:00</lastmod>
+    <lastmod>2018-06-17T08:13:18-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -66,14 +80,14 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/book/</loc>
+    <lastmod>2018-06-17T08:12:59-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/event/</loc>
-    <lastmod>2018-06-16T22:34:25-05:00</lastmod>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -95,13 +109,6 @@
   <url>
     <loc>/reading/</loc>
     <lastmod>2018-06-16T22:24:41-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/review/</loc>
-    <lastmod>2018-06-16T22:18:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

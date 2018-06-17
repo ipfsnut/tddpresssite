@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Author Bio &amp; Press Site for Thomas Dylan Daniel</title>
+    <link>/book/</link>
+    <description>Recent content in Books on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2018 08:12:59 -0500</lastBuildDate>
+    
+	<atom:link href="/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Further From Home</title>
+      <link>/book/further-from-home/</link>
+      <pubDate>Sun, 17 Jun 2018 08:12:59 -0500</pubDate>
+      
+      <guid>/book/further-from-home/</guid>
+      <description>Further From Home is a collection of philosophical short stories.</description>
+    </item>
+    
+  </channel>
+</rss>

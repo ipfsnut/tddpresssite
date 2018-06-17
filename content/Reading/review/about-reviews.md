@@ -1,5 +1,5 @@
 ---
-title: "About Reviews"
+title: "About Readings"
 date: 2018-06-16T22:18:39-05:00
 draft: false
 
