@@ -6,18 +6,66 @@
     <description>Recent content on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jun 2018 08:13:18 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jun 2018 20:55:49 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Pierre Hadot</title>
-      <link>/article/pierre-hadot/</link>
+      <title>CSP EAG</title>
+      <link>/bio/csp-eag/</link>
+      <pubDate>Sun, 17 Jun 2018 20:55:49 -0500</pubDate>
+      
+      <guid>/bio/csp-eag/</guid>
+      <description>I&amp;rsquo;m proud to announce that I was named to the Cambridge Scholars Publishing Editorial Advisory Board for Philosophy last fall.
+Have a look at my bio on their site: http://www.cambridgescholars.com/t/AdvisoryBoardDylan</description>
+    </item>
+    
+    <item>
+      <title>Ogel Bio</title>
+      <link>/bio/ogel-bio/</link>
+      <pubDate>Sun, 17 Jun 2018 20:54:48 -0500</pubDate>
+      
+      <guid>/bio/ogel-bio/</guid>
+      <description>My first international publication led to this bio being created. Photo taken circa 2014. https://www.ogel.org/journal-author-articles.asp?key=2616</description>
+    </item>
+    
+    <item>
+      <title>Formal Dialectics</title>
+      <link>/book/formal-dialectics/</link>
+      <pubDate>Sun, 17 Jun 2018 20:40:55 -0500</pubDate>
+      
+      <guid>/book/formal-dialectics/</guid>
+      <description>Formal Dialectics is my first serious philosophy book. It ought to be out later this year - I&amp;rsquo;ll post some review snippets and a blurb for it closer to launch.</description>
+    </item>
+    
+    <item>
+      <title>Download The Need for a Standard Index of Vehicular Pollution Intensity in the United States</title>
+      <link>/ogel2015-article022.pdf</link>
+      <pubDate>Sun, 17 Jun 2018 20:16:06 -0500</pubDate>
+      
+      <guid>/ogel2015-article022.pdf</guid>
+      <description>In late 2015, the International Journal of Oil, Gas &amp;amp; Energy Law published this essay.
+Abstract:
+The Environmental Protection Agency is tasked with providing a guide to automobile consumers which indexes the smog output of a particular car and compares that car to others. The ratings system used is complicated and accounts for zero emissions vehicles (ZEVs) as well as large trucks and everything in between. Unfortunately, this convoluted structure leads to a complexity which is simply not practical from the standpoint of the end user.</description>
+    </item>
+    
+    <item>
+      <title>Download The Lexicultural Propagation of Concepts</title>
+      <link>/the-lexicultural-propagation-of-concepts.pdf</link>
+      <pubDate>Sun, 17 Jun 2018 19:55:26 -0500</pubDate>
+      
+      <guid>/the-lexicultural-propagation-of-concepts.pdf</guid>
+      <description>In late 2014, I presented this essay to the Southern California Philosophy Conference. It was accepted and published in a book edited by Brian Thomas, available on Amazon. ISBN: 978-1443880428</description>
+    </item>
+    
+    <item>
+      <title>Download Brief Lives: Pierre Hadot</title>
+      <link>/pierre-hadot-1922-2010--issue-113--philosophy-now.pdf</link>
       <pubDate>Sun, 17 Jun 2018 08:13:18 -0500</pubDate>
       
-      <guid>/article/pierre-hadot/</guid>
-      <description>Here is an article I wrote for Philosophy Now back in 2015. It deals with the late French philosopher, Pierre Hadot.</description>
+      <guid>/pierre-hadot-1922-2010--issue-113--philosophy-now.pdf</guid>
+      <description>Here is an article I wrote for Philosophy Now back in 2015. It deals with the late French philosopher, Pierre Hadot. He&amp;rsquo;s one of my favorite philosophers, and I&amp;rsquo;m attaching a .PDF so you can have a look! The article appeared in Philosophy Now&amp;rsquo;s April/May 2016 issue (no. 113).</description>
     </item>
     
     <item>
@@ -26,15 +74,20 @@
       <pubDate>Sun, 17 Jun 2018 08:12:59 -0500</pubDate>
       
       <guid>/book/further-from-home/</guid>
-      <description>Further From Home is a collection of philosophical short stories.</description>
+      <description>Further From Home is a collection of philosophical short stories. It has been live on amazon.com for several months now, after launching in February, 2018.
+
+Here is the link to pick up a copy: https://www.amazon.com/Further-Home-collection-philosophical-fiction/dp/197695102X/ref=sr_1_2?ie=UTF8&amp;amp;qid=1529286196&amp;amp;sr=8-2&amp;amp;keywords=further+from+home
+
+Abstract:
+Further From Home is a collection of thought-provoking, puzzling short stories. The Zen purpose of the work is to provide the reader with a focus, in order to encourage awareness of the mystery, the magic, and the beauty of the world we share.</description>
     </item>
     
     <item>
       <title>About the Author</title>
-      <link>/author-fact/about/</link>
+      <link>/bio/about/</link>
       <pubDate>Sun, 17 Jun 2018 00:09:32 -0500</pubDate>
       
-      <guid>/author-fact/about/</guid>
+      <guid>/bio/about/</guid>
       <description>Hi! It&amp;rsquo;s good to be posting again. Sorry about the old site going down! This is thrilling, though - the site you&amp;rsquo;re viewing is hosted via a decentralized internet platform called the Interplanetary File System (or IPFS).
 My name is Thomas Dylan Daniel, and I&amp;rsquo;m a Texan writer &amp;amp; philosopher. I&amp;rsquo;m a bit of a technologist, and I read a LOT. As I work on the site and get everything updated, (and learn more about how to use Hugo) I&amp;rsquo;ll post tidbits here.</description>
     </item>

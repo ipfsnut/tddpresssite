@@ -6,10 +6,19 @@
     <description>Recent content in Books on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jun 2018 08:12:59 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jun 2018 20:40:55 -0500</lastBuildDate>
     
 	<atom:link href="/book/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Formal Dialectics</title>
+      <link>/book/formal-dialectics/</link>
+      <pubDate>Sun, 17 Jun 2018 20:40:55 -0500</pubDate>
+      
+      <guid>/book/formal-dialectics/</guid>
+      <description>Formal Dialectics is my first serious philosophy book. It ought to be out later this year - I&amp;rsquo;ll post some review snippets and a blurb for it closer to launch.</description>
+    </item>
     
     <item>
       <title>Further From Home</title>
@@ -17,7 +26,12 @@
       <pubDate>Sun, 17 Jun 2018 08:12:59 -0500</pubDate>
       
       <guid>/book/further-from-home/</guid>
-      <description>Further From Home is a collection of philosophical short stories.</description>
+      <description>Further From Home is a collection of philosophical short stories. It has been live on amazon.com for several months now, after launching in February, 2018.
+
+Here is the link to pick up a copy: https://www.amazon.com/Further-Home-collection-philosophical-fiction/dp/197695102X/ref=sr_1_2?ie=UTF8&amp;amp;qid=1529286196&amp;amp;sr=8-2&amp;amp;keywords=further+from+home
+
+Abstract:
+Further From Home is a collection of thought-provoking, puzzling short stories. The Zen purpose of the work is to provide the reader with a focus, in order to encourage awareness of the mystery, the magic, and the beauty of the world we share.</description>
     </item>
     
   </channel>
