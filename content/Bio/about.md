@@ -1,6 +1,6 @@
 ---
 title: "About the Author"
-date: 2018-06-17T00:09:32-05:00
+date: 2018-06-20T00:09:32-05:00
 draft: false
 
 ---

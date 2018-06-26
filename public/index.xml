@@ -6,13 +6,24 @@
     <description>Recent content on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jun 2018 22:16:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jun 2018 11:02:17 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What Is Ipfs?</title>
+      <title>Ipfs Issues</title>
+      <link>/posts/ipfs-issues/</link>
+      <pubDate>Wed, 20 Jun 2018 11:02:17 -0500</pubDate>
+      
+      <guid>/posts/ipfs-issues/</guid>
+      <description>Hey everyone, it&amp;rsquo;s only been a few days, but I&amp;rsquo;m still experimenting with IPFS here and we&amp;rsquo;re finding some issues.
+The biggest single problem seems to be the difficulty of keeping the site running and pinned so that it is accessible on the network.
+It is also difficult to tell precisely how to link directly to content, such as this post. If I wanted to publish this new post to Facebook, I would have to include the site URL and instructions on how to navigate to it.</description>
+    </item>
+    
+    <item>
+      <title>What Is IPFS?</title>
       <link>/posts/what-is-ipfs/</link>
       <pubDate>Sun, 17 Jun 2018 22:16:14 -0500</pubDate>
       
