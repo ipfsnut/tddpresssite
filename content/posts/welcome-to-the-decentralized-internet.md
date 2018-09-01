@@ -6,9 +6,9 @@ draft: false
 
 Welcome to the Decentralized Internet.
 
-In this life, there are few things more certain than change. This site, for example, used to be a Wordpress site hosted by a company with a server.
+In this life, there are few things more certain than change. This site, for example, used to be a Wordpress site hosted by a company with a server. It is still the primary website of an analytic philosopher, but everything else about it has...
 
-That changed recently.
+...changed, recently.
 
 <b>Today, in fact.</b>
 

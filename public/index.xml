@@ -6,20 +6,46 @@
     <description>Recent content on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jun 2018 11:02:17 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 01:37:40 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ipfs Issues</title>
-      <link>/posts/ipfs-issues/</link>
-      <pubDate>Wed, 20 Jun 2018 11:02:17 -0500</pubDate>
+      <title>Formal Dialectics Is Coming Out Soon!</title>
+      <link>/fdcover.png</link>
+      <pubDate>Sat, 01 Sep 2018 01:37:40 -0500</pubDate>
       
-      <guid>/posts/ipfs-issues/</guid>
-      <description>Hey everyone, it&amp;rsquo;s only been a few days, but I&amp;rsquo;m still experimenting with IPFS here and we&amp;rsquo;re finding some issues.
-The biggest single problem seems to be the difficulty of keeping the site running and pinned so that it is accessible on the network.
-It is also difficult to tell precisely how to link directly to content, such as this post. If I wanted to publish this new post to Facebook, I would have to include the site URL and instructions on how to navigate to it.</description>
+      <guid>/fdcover.png</guid>
+      <description>Click for a quick preview of the cover of the book. More news to come!</description>
+    </item>
+    
+    <item>
+      <title>Further From Home is in Stores!</title>
+      <link>/ffhonshelf.jpg</link>
+      <pubDate>Sat, 01 Sep 2018 01:31:42 -0500</pubDate>
+      
+      <guid>/ffhonshelf.jpg</guid>
+      <description>Further From Home is available from Book People and Half Price Books in Austin, both on Lamar. Thanks to these wonderful booksellers for getting local authors out!</description>
+    </item>
+    
+    <item>
+      <title>Preview Formal Dialectics Introduction: Click here to download a free PDF</title>
+      <link>/formal-dialectics-introduction.pdf</link>
+      <pubDate>Sat, 01 Sep 2018 01:31:16 -0500</pubDate>
+      
+      <guid>/formal-dialectics-introduction.pdf</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About the Author</title>
+      <link>/bio/about/</link>
+      <pubDate>Wed, 20 Jun 2018 00:09:32 -0500</pubDate>
+      
+      <guid>/bio/about/</guid>
+      <description>Hi! It&amp;rsquo;s good to be posting again. Sorry about the old site going down! This is thrilling, though - the site you&amp;rsquo;re viewing is hosted via a decentralized internet platform called the Interplanetary File System (or IPFS).
+My name is Thomas Dylan Daniel, and I&amp;rsquo;m a Texan writer &amp;amp; philosopher. I&amp;rsquo;m a bit of a technologist, and I read a LOT. As I work on the site and get everything updated, (and learn more about how to use Hugo) I&amp;rsquo;ll post tidbits here.</description>
     </item>
     
     <item>
@@ -59,7 +85,10 @@ Have a look at my bio on their site: http://www.cambridgescholars.com/t/Advisory
       <pubDate>Sun, 17 Jun 2018 20:40:55 -0500</pubDate>
       
       <guid>/book/formal-dialectics/</guid>
-      <description>Formal Dialectics is my first serious philosophy book. It ought to be out later this year - I&amp;rsquo;ll post some review snippets and a blurb for it closer to launch.</description>
+      <description>Formal Dialectics is my first serious philosophy book. It ought to be out later this year - I&amp;rsquo;ll post some review snippets and a blurb for it closer to launch.
+
+Abstract:
+Why do the attempts we make to explain the world around us fall short? Arguments for or against the existence of God, the question of free will, and even Principia Mathematica are all examples of explanations that look solid from some points of view, but which have serious weaknesses from other perspectives.</description>
     </item>
     
     <item>
@@ -99,60 +128,8 @@ The Environmental Protection Agency is tasked with providing a guide to automobi
       <guid>/book/further-from-home/</guid>
       <description>Further From Home is a collection of philosophical short stories. It has been live on amazon.com for several months now, after launching in February, 2018.
 
-Here is the link to pick up a copy: https://www.amazon.com/Further-Home-collection-philosophical-fiction/dp/197695102X/ref=sr_1_2?ie=UTF8&amp;amp;qid=1529286196&amp;amp;sr=8-2&amp;amp;keywords=further+from+home
-
-Abstract:
-Further From Home is a collection of thought-provoking, puzzling short stories. The Zen purpose of the work is to provide the reader with a focus, in order to encourage awareness of the mystery, the magic, and the beauty of the world we share.</description>
-    </item>
-    
-    <item>
-      <title>About the Author</title>
-      <link>/bio/about/</link>
-      <pubDate>Sun, 17 Jun 2018 00:09:32 -0500</pubDate>
-      
-      <guid>/bio/about/</guid>
-      <description>Hi! It&amp;rsquo;s good to be posting again. Sorry about the old site going down! This is thrilling, though - the site you&amp;rsquo;re viewing is hosted via a decentralized internet platform called the Interplanetary File System (or IPFS).
-My name is Thomas Dylan Daniel, and I&amp;rsquo;m a Texan writer &amp;amp; philosopher. I&amp;rsquo;m a bit of a technologist, and I read a LOT. As I work on the site and get everything updated, (and learn more about how to use Hugo) I&amp;rsquo;ll post tidbits here.</description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>/new/news/</link>
-      <pubDate>Sat, 16 Jun 2018 22:37:37 -0500</pubDate>
-      
-      <guid>/new/news/</guid>
-      <description>There isn&amp;rsquo;t much going on at the present time. Formal Dialectics ought to be hitting the presses in the very near future, and there are a few articles that I&amp;rsquo;m working on to be released before too long. I&amp;rsquo;ll post here and update you when anything happens for sure!</description>
-    </item>
-    
-    <item>
-      <title>Summer 2018</title>
-      <link>/reading/summer-2018/</link>
-      <pubDate>Sat, 16 Jun 2018 22:24:41 -0500</pubDate>
-      
-      <guid>/reading/summer-2018/</guid>
-      <description>This summer, I&amp;rsquo;m working on a lot of stuff for work. So, I won&amp;rsquo;t have too much time to really delve into anything terribly complex. But, here&amp;rsquo;s a quick list of some things I plan to knock out over the next few months!
-
-Feel free to make suggestions via Twitter or Facebook if you&amp;rsquo;re thus inclined!!!
-
-1. Antonio Damasio The Strange Order of Things: Life, Feeling, and the Making of Cultures.</description>
-    </item>
-    
-    <item>
-      <title>About Readings</title>
-      <link>/reading/review/about-reviews/</link>
-      <pubDate>Sat, 16 Jun 2018 22:18:39 -0500</pubDate>
-      
-      <guid>/reading/review/about-reviews/</guid>
-      <description>This section will have book reviews about books I&amp;rsquo;m reading. There will also be a reading list. See the top menu section Reading.</description>
-    </item>
-    
-    <item>
-      <title>Good news, everyone!</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Sat, 16 Jun 2018 21:40:18 -0500</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>It&amp;rsquo;s alive! I&amp;rsquo;m so thrilled to have gotten an IPFS-hosted website up and running. Check back for updates and goings-on!</description>
+Blurb:
+Further From Home is a collection of thought-provoking, puzzling short stories. The Zen purpose of the work is to provide the reader with a focus, in order to encourage awareness of the mystery, the magic, and the beauty of the world we share. Philosophical thinking is not only for libraries and scholars!</description>
     </item>
     
     <item>
@@ -162,11 +139,10 @@ Feel free to make suggestions via Twitter or Facebook if you&amp;rsquo;re thus i
       
       <guid>/posts/welcome-to-the-decentralized-internet/</guid>
       <description>Welcome to the Decentralized Internet.
-In this life, there are few things more certain than change. This site, for example, used to be a Wordpress site hosted by a company with a server.
-That changed recently.
+In this life, there are few things more certain than change. This site, for example, used to be a Wordpress site hosted by a company with a server. It is still the primary website of an analytic philosopher, but everything else about it has&amp;hellip;
+&amp;hellip;changed, recently.
 Today, in fact.
-Now, instead of being hosted by a single entity, this site is hosted by a &amp;ldquo;swarm&amp;rdquo; of &amp;ldquo;peers&amp;rdquo; (put in scare-quotes just to emphasized the novelty of the two concepts).
-Here, you&amp;rsquo;ll be able to follow along with the writings of a 21st century philosopher.</description>
+Now, instead of being hosted by a single entity, this site is hosted by a &amp;ldquo;swarm&amp;rdquo; of &amp;ldquo;peers&amp;rdquo; (put in scare-quotes just to emphasized the novelty of the two concepts).</description>
     </item>
     
   </channel>

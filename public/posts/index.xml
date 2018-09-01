@@ -6,20 +6,27 @@
     <description>Recent content in Posts on Author Bio &amp; Press Site for Thomas Dylan Daniel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jun 2018 11:02:17 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 01:37:40 -0500</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ipfs Issues</title>
-      <link>/posts/ipfs-issues/</link>
-      <pubDate>Wed, 20 Jun 2018 11:02:17 -0500</pubDate>
+      <title>Formal Dialectics Is Coming Out Soon!</title>
+      <link>/fdcover.png</link>
+      <pubDate>Sat, 01 Sep 2018 01:37:40 -0500</pubDate>
       
-      <guid>/posts/ipfs-issues/</guid>
-      <description>Hey everyone, it&amp;rsquo;s only been a few days, but I&amp;rsquo;m still experimenting with IPFS here and we&amp;rsquo;re finding some issues.
-The biggest single problem seems to be the difficulty of keeping the site running and pinned so that it is accessible on the network.
-It is also difficult to tell precisely how to link directly to content, such as this post. If I wanted to publish this new post to Facebook, I would have to include the site URL and instructions on how to navigate to it.</description>
+      <guid>/fdcover.png</guid>
+      <description>Click for a quick preview of the cover of the book. More news to come!</description>
+    </item>
+    
+    <item>
+      <title>Further From Home is in Stores!</title>
+      <link>/ffhonshelf.jpg</link>
+      <pubDate>Sat, 01 Sep 2018 01:31:42 -0500</pubDate>
+      
+      <guid>/ffhonshelf.jpg</guid>
+      <description>Further From Home is available from Book People and Half Price Books in Austin, both on Lamar. Thanks to these wonderful booksellers for getting local authors out!</description>
     </item>
     
     <item>
@@ -35,26 +42,16 @@ IPFS is an acronym which stands for “Interplanetary File System” and is lite
     </item>
     
     <item>
-      <title>Good news, everyone!</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Sat, 16 Jun 2018 21:40:18 -0500</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>It&amp;rsquo;s alive! I&amp;rsquo;m so thrilled to have gotten an IPFS-hosted website up and running. Check back for updates and goings-on!</description>
-    </item>
-    
-    <item>
       <title>Welcome to the Decentralized Internet</title>
       <link>/posts/welcome-to-the-decentralized-internet/</link>
       <pubDate>Sat, 16 Jun 2018 21:22:35 -0500</pubDate>
       
       <guid>/posts/welcome-to-the-decentralized-internet/</guid>
       <description>Welcome to the Decentralized Internet.
-In this life, there are few things more certain than change. This site, for example, used to be a Wordpress site hosted by a company with a server.
-That changed recently.
+In this life, there are few things more certain than change. This site, for example, used to be a Wordpress site hosted by a company with a server. It is still the primary website of an analytic philosopher, but everything else about it has&amp;hellip;
+&amp;hellip;changed, recently.
 Today, in fact.
-Now, instead of being hosted by a single entity, this site is hosted by a &amp;ldquo;swarm&amp;rdquo; of &amp;ldquo;peers&amp;rdquo; (put in scare-quotes just to emphasized the novelty of the two concepts).
-Here, you&amp;rsquo;ll be able to follow along with the writings of a 21st century philosopher.</description>
+Now, instead of being hosted by a single entity, this site is hosted by a &amp;ldquo;swarm&amp;rdquo; of &amp;ldquo;peers&amp;rdquo; (put in scare-quotes just to emphasized the novelty of the two concepts).</description>
     </item>
     
   </channel>
